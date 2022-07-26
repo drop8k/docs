@@ -53,6 +53,22 @@ Modpacks are installed in CurseForge CLI via a direct link to the file ID.
 ![vmware_R9f8ty1gqR](https://user-images.githubusercontent.com/92121005/181086438-5df35d8d-a874-4fa1-8a0f-738ac9fd6360.gif)
 
 ## Adding Profiles to Launcher
+### MultiMC/UltimMC
+> *This guide assumes you have the launcher pre-configured.*
+
+- Launch the application and click on ***Add Instance***. In ***Vanilla***, select the modpack's Minecraft version from the list, then click ***OK***.
+
+![vmware_UXELkCJbfM](https://user-images.githubusercontent.com/92121005/181091282-d0754959-3162-451c-bbf1-ec8e857bf6cc.gif)
+
+- Right-click on the new instance.
+   - **If your modpack uses Forge/Fabric, you will need to add it before you can launch it.** Click on ***Edit Instance*** > ***Version*** > ***Install Forge*** or ***Install Fabric***. *Try to select a version that is close to the one used by the modpack.*
+
+![vmware_9GT4vPPWo6](https://user-images.githubusercontent.com/92121005/181091811-0315a3e8-1f7a-4ae5-b24c-66349c6cfae5.gif)
+
+- Click on ***Minecraft Folder*** to open the folder created by MultiMC. Locate your modpack installation from earlier and find the `modpack` folder (located in `/curseforge-cli/modpack`.
+- Drag/copy the modpack's contents (e.g. `skyfactory-4_296062_2699752`) into the MultiMC Minecraft folder.
+
+![vmware_6YGAKA1wHh](https://user-images.githubusercontent.com/92121005/181093056-af31ee92-3b25-44e5-b249-5634150543a7.gif)
 
 ## Uninstalling Modpacks
 - Delete the modpack under `/modpack`.
