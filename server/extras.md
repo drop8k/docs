@@ -8,6 +8,11 @@ nav_order: 4
 # Extra Mods
 Some additional mods are required for clients to join Minecraft servers on top of mods used by CurseForge.
 
+See [Installing Extra Mods](https://drop8k.github.io/docs/server/extras-install.html) on how to use these mods.
+
+## List of Extra Mods
+Extra mods can be found on download mirrors.
+
 Alternatively, mods can be installed manually. Below is a list of these mods:
 
 ### **`TBD`** [1.12.2] [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)
