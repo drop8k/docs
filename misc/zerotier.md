@@ -8,7 +8,7 @@ nav_order: 1
 # Configuring ZeroTier
 drop servers use [ZeroTier](https://www.zerotier.com) to allow users to connect without being on the same home network. 
 
-ZeroTier is required to join these game servers, and you will not be able to connect without setting up your client.
+ZeroTier is required to join game servers or connect to some of drop's servers, and you will not be able to connect without setting up your client.
 
 - [Windows](https://drop8k.github.io/docs/misc/zerotier.html#windows)
 - [Linux](https://drop8k.github.io/docs/misc/zerotier.html#linux)
