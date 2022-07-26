@@ -1,7 +1,7 @@
 ---
 title: Extra Mods
 parent: Minecraft
-has_children: false
+has_children: true
 nav_order: 4
 ---
 
