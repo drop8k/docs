@@ -12,6 +12,7 @@ This guide is for Windows operating systems.
 
 - [First-Time Setup (CurseForge)](https://drop8k.github.io/docs/server/installation1.html#first-time-setup-curseforge)
 - [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks)
+- [Adding Profiles to Launcher](https://drop8k.github.io/docs/server/installation1.html#adding-profiles-to-launcher)
 - [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation1.html#uninstalling-modpacks)
 
 ## First-Time Setup (CurseForge)
