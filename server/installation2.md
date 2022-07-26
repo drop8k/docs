@@ -2,7 +2,7 @@
 title: Installing Modpacks Using CurseForge CLI (Linux)
 parent: Minecraft
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Installing Modpacks Using CurseForge CLI (Linux)
