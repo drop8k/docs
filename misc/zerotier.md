@@ -44,7 +44,7 @@ ZeroTier is required to join these game servers, and you will not be able to con
 
 ### Connecting to a Network
 - In terminal, type `sudo zerotier-cli join <network_ID>`, replacing `<network_ID>` with the unique 16-digit network ID set up by you or provided by the administrator.
-- Check you are connected successfully by typing `sudo zerotier-cli listnetworks`.
+- Check that you are connected by typing `sudo zerotier-cli listnetworks`. *If successful, the network will show up.*
    - **Private networks will not show up until it is approved.** [Manage your network](https://my.zerotier.com/) or contact the network administrator.
 
 ### Leaving a Network
