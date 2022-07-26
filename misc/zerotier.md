@@ -17,7 +17,7 @@ ZeroTier is required to join these game servers, and you will not be able to con
 
 ### Downloading the ZeroTier Client
 - Download the Windows installer from [ZeroTier](https://www.zerotier.com/download/) and launch the installer.
-   - Direct DL: [`ZeroTier One.msi`](https://download.zerotier.com/dist/ZeroTier%20One.msi)
+   - Direct Download Link: [`ZeroTier One.msi`](https://download.zerotier.com/dist/ZeroTier%20One.msi)
 - Go to your system tray and locate ZeroTier. Right-click on the icon > ***Join New Network...***.
    - If it does not show up, relaunch the application.
 
