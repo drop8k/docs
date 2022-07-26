@@ -43,9 +43,9 @@ Modpacks are installed in CurseForge CLI via a direct link to the file ID.
 ![vmware_WOPsb0K5XK](https://user-images.githubusercontent.com/92121005/181084289-881fb4b1-557d-4002-ae66-16b005361a25.gif)
 
 - Alternatively, you may wish to install a specific or older version of a modpack by clicking on the modpack's details > ***Files*** > ***Recent Files*** > ***View All***. Then, copy the file ID from the URL.
-   - Replace `<project_id>` with the file ID.
+   - Add `_<file_id>` to the end of the install command, after the `<project_id>`.
 
-![vmware_SEyoA3KCdD](https://user-images.githubusercontent.com/92121005/181085142-f1dc2661-c5cf-4430-a48f-340bc33b3ded.gif)
+![vmware_R9f8ty1gqR](https://user-images.githubusercontent.com/92121005/181086438-5df35d8d-a874-4fa1-8a0f-738ac9fd6360.gif)
 
 ## Adding Profiles to Launcher
 
