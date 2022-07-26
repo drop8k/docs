@@ -1,7 +1,7 @@
 ---
 title: Installing Extra Mods
 parent: Extra Mods
-has_children: true
+grand_parent: Minecraft
 nav_order: 1
 ---
 
