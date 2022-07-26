@@ -26,9 +26,13 @@ This guide is for Linux operating systems.
 Modpacks are installed in CurseForge-CLI via a direct link to the file ID.
 
 - Launch the [CurseForge](https://www.curseforge.com/minecraft/modpacks) website for Minecraft modpacks. *You may also receive a direct link to the modpack instead; open or paste this link in your browser.*
-- On the right-side, find and copy the ***Project ID***.
+- On the right-side of the page, find and copy the ***Project ID***.
 - Use `./curseforge modpack install <project_id>`, replacing `<project_id>` with the ID of the modpack.
    - The modpack can be found under `/modpack/<modpack_name>`.
+- Alternatively, you may wish to install a specific or older version of a modpack by clicking on the modpack's details > ***Files*** > ***Recent Files*** > ***View All***. Then, copy the file ID from the URL.
+   - Replace `<project_id>` with the file ID.
+
+## Adding Profiles to Launcher
 
 ## Uninstalling Modpacks
 - Delete the modpack under `/modpack`.
