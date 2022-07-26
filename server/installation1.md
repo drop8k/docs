@@ -24,10 +24,10 @@ Modpacks can be installed conveniently and easily using the CurseForge mod launc
      - The default installation folder created by CurseForge is located under `C:\Users\<your_name>\curseforge\minecraft`. *If you want to select a different folder or drive, select **Advanced**.*
    ![WindowsSandboxClient_u2rUfn29hR](https://user-images.githubusercontent.com/92121005/180903662-824846cc-4277-4c9d-a3b7-66b2cf76f26c.gif)
 
-## Browsing Modpacks
+## Downloading Modpacks
 Modpacks can be installed by browsing the CurseForge website or using the CurseForge app. 
 
-**It is typically recommended to use the website, as you can be sure you are installing the correct pack.** *However, the app is an option if you are comfortable with using it.*
+**It is recommended to use the website, as you can be sure you are installing the correct pack.** *However, the app is an option if you are comfortable with using it., and may be easier to some users.*
 
 ### Using the CurseForge Website
 - Launch the [CurseForge](https://www.curseforge.com/minecraft/modpacks) website for Minecraft modpacks. *You may also receive a direct link to the modpack instead; open or paste this link in your browser.*
@@ -49,3 +49,7 @@ Modpacks can be installed by browsing the CurseForge website or using the CurseF
 
 ![WindowsSandboxClient_u5ADROmSoG](https://user-images.githubusercontent.com/92121005/180907172-1f128540-1418-44b8-9ebd-51a20a6c2274.gif)
 
+## Uninstalling Modpacks
+- To uninstall a modpack, open the CurseForge app and head to the left sidebar. Select ***Minecraft*** > ***My Modpacks***. Click on the modpack > ***3 Dots*** > ***Delete Profile***.
+
+![WindowsSandboxClient_4tTHLpNyth](https://user-images.githubusercontent.com/92121005/180910430-50bd59d9-d54e-47db-ad9c-9fcad11a4ce1.gif)
