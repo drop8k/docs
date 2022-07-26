@@ -11,7 +11,7 @@ List: `d!help` / `d?help` / `d&help`
 ## Music
 
 | Command                               | Details                                      |
-| ------------------------------------- | -------------------------------------------- |
+| :------------------------------------ | :------------------------------------------- |
 | `d!play <url/query/playlist>` / `d!p` | Plays/adds the song or playlist to queue.    |
 | `d!np`                                | Check the current song.                      |
 | `d!q [page_num]`                      | View the current queue or specific page.     |
@@ -23,7 +23,7 @@ List: `d!help` / `d?help` / `d&help`
 ## DJ
 
 | Command                  | Details                                                  
-| ------------------------ | -------------------------------------------------------- |
+| :----------------------- | :------------------------------------------------------- |
 | `d!pause`                | Pauses the current song.                                 |
 | `d!fs`                   | Force skips the current song in queue                    |
 | `d!skipto <position>`    | Skips to the specified song.                             |
@@ -34,7 +34,7 @@ List: `d!help` / `d?help` / `d&help`
 ## Debug
 
 | Command   | Details                   |
-| --------- | ------------------------- |
+| :-------- | :------------------------ |
 | `d!about` | Shows info about the bot. |
 | `d!ping`  | Checks the bot's latency. |
 | `d!debug` | Shows debug info (admin). |
