@@ -1,0 +1,25 @@
+---
+title: Extra Mods
+parent: Minecraft
+has_children: false
+nav_order: 4
+---
+
+# Extra Mods
+Some additional mods are required for clients to join Minecraft servers on top of mods used by CurseForge.
+
+Alternatively, mods can be installed manually. Below is a list of these mods:
+
+### **`TBD`** [1.12.2] [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)
+> *No additional mods.*
+
+### **`6/4/22`** [1.12.2] [PixelmonMod v8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)
+- `6/6/22` [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063) `appliedenergistics2-rv6-stable-7.jar`
+- `6/6/22` Just Enough Items (JEI)
+- `6/8/22` [AE2 Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib/files/2830114) `AE2WTLib-1.12.2-1.0.34.jar`
+- `6/8/22` CodeChicken Lib 1.8.+ `CodeChickenLib-1.12.2-3.2.3.358-universal.jar` 
+- `6/8/22` Ender Storage 1.8+ `EnderStorage-1.12.2-2.4.6.137-universal.jar`
+- `6/8/22` Extra Utilities `extrautils2-1.12-1.9.9.jar` 
+- `6/8/22` p455w0rd's Library `p455w0rdslib-1.12.2-2.3.161.jar`
+- `6/8/22` [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280) `theoneprobe-1.12-1.4.28.jar`
+- `6/11/22` [Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal/files/2830252) `WirelessCraftingTerminal-1.12.2-3.12.97.jar`
