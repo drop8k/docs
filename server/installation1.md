@@ -8,10 +8,12 @@ nav_order: 1
 # Installing Modpacks Using CurseForge (Windows)
 Modpacks can be installed conveniently and easily using the CurseForge mod launcher.
 
+This guide is for Windows operating systems.
+
 > This guide assumes you have a legitimate copy of Minecraft Java Edition.
 
 ## First-Time Setup (CurseForge)
-> *If you have CurseForge configured already, you can skip to [Browsing Modpacks](https://drop8k.github.io/docs/server/installation1.html#browsing-modpacks).*
+> *If you have CurseForge configured already, you can skip to [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks).*
 
 - Download [CurseForge](https://download.curseforge.com/) and run the installer.
    - **CurseForge requires [Overwolf](https://www.overwolf.com/) to be installed.** *If you do not have Overwolf installed, the setup will install it for you.*
