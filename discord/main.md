@@ -6,4 +6,11 @@ nav_order: 2
 
 # Discord
 
-TBD
+drop is a private bot with basic functionality.
+
+Servers utilize the [JMusicBot](https://github.com/jagrosh/MusicBot) repo for its Discord bots, powered by the [JDA library](https://github.com/DV8FromTheWorld/JDA) and [Discord's API](https://github.com/discord). 
+
+drop runs on various hardware for upmost reliability and flexibility.
+
+## Specifications
+Servers run on Debian-based Linux operating systems and use the [OpenJDK](https://openjdk.org/) Java platform.
