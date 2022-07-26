@@ -13,5 +13,6 @@ drop runs on various hardware to ensure upmost reliability and flexibility.
    - [Installing Modpacks Using CurseForge App (Windows)](https://drop8k.github.io/docs/server/installation1.html)
    - [Installing Modpacks Using CurseForge CLI (Linux)](https://drop8k.github.io/docs/server/installation2.html)
    - [Extra Mods](https://drop8k.github.io/docs/server/extras.html)
+      - [Installing Extra Mods](https://drop8k.github.io/docs/server/extras-install.html)
 - [Other](https://drop8k.github.io/docs/misc/main.html)
    - [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html)
