@@ -12,7 +12,7 @@ Modpacks from CurseForge can be downloaded by using [CurseForge-CLI](https://git
 
 This guide is for Linux operating systems.
 
-## Downloading CurseForge-CLI
+## Downloading CurseForge CLI
 - Head to the [CurseForge-CLI](https://github.com/North-West-Wind/CurseForge-CLI) GitHub repository. Select **Releases** and download `curseforge.zip` from the latest release.
 - Extract `curseforge.zip` (e.g. `~/curseforge-cli`). *Note that this will be the directory where all CurseForge modpacks will be installed.*
 - Launch the folder in terminal by right-clicking the folder in your file manager or by using `cd`.
@@ -23,7 +23,7 @@ This guide is for Linux operating systems.
    - Use `./curseforge` if your terminal is in the working directory.
 
 ## Downloading Modpacks
-Modpacks are installed in CurseForge-CLI via a direct link to the file ID.
+Modpacks are installed in CurseForge CLI via a direct link to the file ID.
 
 - Launch the [CurseForge](https://www.curseforge.com/minecraft/modpacks) website for Minecraft modpacks. *You may also receive a direct link to the modpack instead; open or paste this link in your browser.*
 - On the right-side of the page, find and copy the ***Project ID***.
