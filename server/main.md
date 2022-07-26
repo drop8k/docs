@@ -32,5 +32,3 @@ drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers 
 | Part   | Details                               |
 | :----- | :------------------------------------ |
 | OS     | Ubuntu Server 22.04 LTS               |
-
-test
