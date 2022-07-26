@@ -1,11 +1,11 @@
 ---
-title: Installing Modpacks Using CurseForge (Windows)
+title: Installing Modpacks Using CurseForge App (Windows)
 parent: Minecraft
 has_children: false
 nav_order: 1
 ---
 
-# Installing Modpacks Using CurseForge (Windows)
+# Installing Modpacks Using CurseForge App (Windows)
 Modpacks can be installed conveniently and easily using the CurseForge mod launcher.
 
 This guide is for Windows operating systems.
