@@ -78,4 +78,4 @@ Modpacks are installed in CurseForge CLI via a direct link to the file ID.
 
 ## Uninstalling Modpacks
 - Delete the modpack under `/modpack`.
-   - If you use MultiMC/UltimMC, open the launcher and right-click on your instance, then hit ***Delete***.
+   - If you use MultiMC/UltimMC, open the launcher and right-click on your instance, then click on ***Delete***.
