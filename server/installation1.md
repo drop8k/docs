@@ -2,7 +2,7 @@
 title: Installing Modpacks Using CurseForge App (Windows)
 parent: Minecraft
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Installing Modpacks Using CurseForge App (Windows)
