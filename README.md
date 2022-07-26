@@ -5,6 +5,7 @@ drop is a network providing end users with tools and services.
 drop runs on various hardware to ensure upmost reliability and flexibility.
 
 ## Index
+
 - [Discord](https://drop8k.github.io/docs/discord/main.html)
    - [Commands (JMusicBot)](https://drop8k.github.io/docs/discord/commands1.html)
 - [Minecraft](https://drop8k.github.io/docs/server/main.html)
