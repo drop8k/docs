@@ -67,8 +67,14 @@ Modpacks are installed in CurseForge CLI via a direct link to the file ID.
 
 - Click on ***Minecraft Folder*** to open the folder created by MultiMC. Locate your modpack installation from earlier and find the `modpack` folder (located in `/curseforge-cli/modpack`.
 - Drag/copy the modpack's contents (e.g. `skyfactory-4_296062_2699752`) into the MultiMC Minecraft folder.
-
 ![vmware_6YGAKA1wHh](https://user-images.githubusercontent.com/92121005/181093056-af31ee92-3b25-44e5-b249-5634150543a7.gif)
+   - If configured properly, the modpack's contents will show under ***Edit Instance*** > ***Loader Mods***, ***Resource Packs***, or ***Shader Packs***.
+     ![vmware_SbEqCnAwcK](https://user-images.githubusercontent.com/92121005/181093927-31067b6f-f38b-4b70-ad55-17ce48293ae8.gif)
+
+- **Allocate more memory to your instance.** Some modpacks will require more than the default allocated memory, and may not run properly/launch if they run out.
+   - Right-click on your instance and click on  ***Edit Instance*** > ***Settings*** > ***Java*** > ***Memory***. Change the ***Minimum memory allocation*** and ***Maximum memory allocation*** as needed, then hit ***Close***.
+
+![vmware_Ju7BKBshjy](https://user-images.githubusercontent.com/92121005/181094843-2bd52397-ef3e-4921-8c97-67e9bce1531c.gif)
 
 ## Uninstalling Modpacks
 - Delete the modpack under `/modpack`.
