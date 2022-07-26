@@ -12,6 +12,11 @@ Modpacks from CurseForge can be downloaded by using [CurseForge-CLI](https://git
 
 This guide is for Linux operating systems.
 
+- [Downloading CurseForge CLI](https://drop8k.github.io/docs/server/installation2.html#downloading-curseforge-cli)
+- [Downloading Modpacks](https://drop8k.github.io/docs/server/installation2.html#downloading-modpacks)
+- [Adding Profiles to Launcher](https://drop8k.github.io/docs/server/installation2.html#adding-profiles-to-launcher)
+- [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation2.html#uninstalling-modpacks)
+
 ## Downloading CurseForge CLI
 - Head to the [CurseForge-CLI](https://github.com/North-West-Wind/CurseForge-CLI) GitHub repository. Select **Releases** and download `curseforge.zip` from the latest release.
 
