@@ -6,6 +6,8 @@ nav_order: 3
 ---
 
 # Installing Modpacks Using CurseForge CLI (Linux)
+> ⚠ **This page is incomplete.** Some information may be incorrect, out-of-date, or missing.
+
 Modpacks from CurseForge can be downloaded by using [CurseForge-CLI](https://github.com/North-West-Wind/CurseForge-CLI).
 
 This guide is for Linux operating systems.
