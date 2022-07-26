@@ -9,6 +9,7 @@ nav_order: 1
 List: `d!help` / `d?help` / `d&help`
 
 ## Music
+
 | Command                               | Details                                      |
 | ------------------------------------- | -------------------------------------------- |
 | `d!play <url/query/playlist>` / `d!p` | Plays/adds the song or playlist to queue.    |
@@ -20,7 +21,8 @@ List: `d!help` / `d?help` / `d&help`
 | `d!lyrics [song_name]`                | Searches for lyrics of selected/active song. |
 
 ## DJ
-| Command                  | Details                                                  |
+
+| Command                  | Details                                                  
 | ------------------------ | -------------------------------------------------------- |
 | `d!pause`                | Pauses the current song.                                 |
 | `d!fs`                   | Force skips the current song in queue                    |
@@ -30,6 +32,7 @@ List: `d!help` / `d?help` / `d&help`
 | `d!stop` / `d!dc`        | Clears the queue and disconnects the bot from active VC. |
 
 ## Debug
+
 | Command   | Details                   |
 | --------- | ------------------------- |
 | `d!about` | Shows info about the bot. |
