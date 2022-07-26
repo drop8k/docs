@@ -64,7 +64,7 @@ By default, CurseForge will automatically make profiles for your modpacks.
 ![WindowsSandboxClient_R4wFIaJAaU](https://user-images.githubusercontent.com/92121005/181117431-e09bdd2a-42fa-4576-94d1-fe9767a04a49.gif)
 
 ### SKLauncher: Method 1 (Recommended)
-SKLauncher can work with CurseForge and will automatically create a profile just like the vanilla launcher, while still allowing you to launch from CurseForge.
+SKLauncher can work with CurseForge and will automatically create a profile just like the vanilla launcher, while still allowing you to launch from CurseForge. *This method is recommended as it only needs to be set up once, allowing the launcher to work with any future modpacks.*
 
 - Download the [SKLauncher](https://skmedix.pl/sklauncher) executable and save it to a directory. `.jar` versions will not work.
 - Locate the Minecraft installation folder created by CurseForge and navigate to `Install`.
@@ -78,6 +78,8 @@ SKLauncher can work with CurseForge and will automatically create a profile just
 ![WindowsSandboxClient_vn8raRWlHe](https://user-images.githubusercontent.com/92121005/181120330-7aa776c7-1131-420c-abed-9d121558c4cc.gif)
 
 ### SKLauncher: Method 2
+You can also manually create profiles in SKLauncher.
+
 - Download and launch the [SKLauncher](https://skmedix.pl/sklauncher) executable.
 - Create a new profile with the Minecraft version of the modpack. Then, click on the ***3 Dots*** > ***Edit Profile*** > ***Game Settings*** > ***Game Directory***.
    - Set the ***Game Directory*** to the location of the modpack installed by CurseForge.
