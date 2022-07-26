@@ -33,6 +33,8 @@ ZeroTier is required to join game servers or to connect to some of drop's server
 - Launch the ZeroTier UI. Go to your system tray and locate ZeroTier.
 - Right-click on the icon and hover over the network you wish to disconnect from > ***Disconnect***.
 
+![WindowsSandboxClient_s7bDtkHkPM](https://user-images.githubusercontent.com/92121005/181081233-74ff7c33-01a6-438e-9316-1fb936df10a3.gif)
+
 ## Linux
 
 ### Downloading the ZeroTier Client
