@@ -13,12 +13,14 @@ Minecraft Servers run on various dependencies:
 drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers over the internet to end users.
 
 ## Servers
-> ⚠ **You must be registered on the ZeroTier network to join.**
+> ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
 
 | Date    | Server IP      | MC Version | Modpack       | Modpack Version                                                                        | 
 | :------ | :------------- | :--------- | :------------ | :------------------------------------------------------------------------------------- |
 | TBD     | `-`            | 1.12.2     | RLCraft       | [Release v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670) | 
 | 6/4/22  | `172.27.76.80` | 1.12.2     | Pixelmon      | [Release 8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)   |
+
+Active servers are constantly backed up prior to updates/changes and every day (locally and offsite) to ensure data retention.
 
 ## Hardware
 
