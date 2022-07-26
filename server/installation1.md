@@ -6,8 +6,6 @@ nav_order: 2
 ---
 
 # Installing Modpacks Using CurseForge App (Windows)
-> This guide assumes you have a legitimate copy of Minecraft Java Edition.
-
 Modpacks can be installed conveniently and easily using the CurseForge mod launcher.
 
 This guide is for Windows operating systems.
@@ -27,7 +25,7 @@ This guide is for Windows operating systems.
 - Launch the application. Create a new Minecraft installation folder using CurseForge, or manually set your folder. *Note that all Minecraft modpacks installed with CurseForge will be located in this directory.*
    - **Create a new Minecraft installation folder.** If CurseForge does not detect your existing installation, or you wish to create your own, you can get CurseForge to make a new one.
      - Head to ***Settings*** > ***Game Specific*** > ***Add*** > ***Minecraft*** > ***Add Minecraft (Java Edition)***.
-     - The default installation folder created by CurseForge is located under `C:\Users\<your_name>\curseforge\minecraft`. *If you want to select a different folder or drive, select **Advanced**.*
+     - The default installation folder created by CurseForge is located under `C:\Users\<your_name>\curseforge\minecraft`, with `<your_name>` being the name of your user folder. *If you want to select a different folder or drive, select **Advanced**.*
    ![WindowsSandboxClient_u2rUfn29hR](https://user-images.githubusercontent.com/92121005/180903662-824846cc-4277-4c9d-a3b7-66b2cf76f26c.gif)
 
 ## Downloading Modpacks
@@ -54,6 +52,23 @@ Modpacks can be installed by browsing the CurseForge website or using the CurseF
 - Alternatively, you may wish to install a specific or older version of a modpack by clicking on the modpack's details > ***Versions***.
 
 ![WindowsSandboxClient_u5ADROmSoG](https://user-images.githubusercontent.com/92121005/180907172-1f128540-1418-44b8-9ebd-51a20a6c2274.gif)
+
+## Adding Profiles to Launcher
+
+### CurseForge (Official)
+By default, CurseForge will automatically make profiles for your modpacks.
+
+- In the launcher, go to ***Minecraft*** > ***My Modpacks***. Hover your mouse over the modpack you want to launch and press ***Play***.
+
+![WindowsSandboxClient_R4wFIaJAaU](https://user-images.githubusercontent.com/92121005/181117431-e09bdd2a-42fa-4576-94d1-fe9767a04a49.gif)
+
+### SKLauncher: Method 1 (Recommended)
+- Download the [SKLauncher](https://skmedix.pl/sklauncher) executable and save it to a directory. `.jar` versions will not work.
+- Locate the Minecraft installation folder created by CurseForge and navigate to `Install`.
+   - By default, CurseForge places it under: `C:\Users\<your_name>\curseforge\minecraft\Install`, replacing `<your_name>` with the name of your user folder.
+- Delete/rename the `minecraft.exe` file found in `Install` (e.g. `minecraft.exe.bak`). Then, drag the SKLauncher executable (e.g. `SKlauncher_3-beta.21.exe`) into the directory and rename it to `minecraft.exe`.
+![WindowsSandboxClient_jPOvtvhGJj](https://user-images.githubusercontent.com/92121005/181118888-f66a9114-6b8e-442a-b5af-726d91b788c0.gif)
+   - test
 
 ## Uninstalling Modpacks
 - To uninstall a modpack, open the CurseForge app and head to the left sidebar. Select ***Minecraft*** > ***My Modpacks***. Click on the modpack > ***3 Dots*** > ***Delete Profile***.
