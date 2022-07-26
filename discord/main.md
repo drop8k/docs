@@ -12,7 +12,7 @@ Servers utilize the [JMusicBot](https://github.com/jagrosh/MusicBot) repo for it
 
 drop runs on various hardware for *upmost reliability and flexibility*.
 
-## Specifications
+## Hardware
 Servers run on Debian-based Linux operating systems and use the [OpenJDK](https://openjdk.org/) Java platform.
 
 | #     | Region  | Bot Version                                                               | OpenJDK Version                                         | Operating System                |
