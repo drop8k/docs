@@ -12,6 +12,10 @@ This guide is for Windows operating systems.
 
 > This guide assumes you have a legitimate copy of Minecraft Java Edition.
 
+- [First-Time Setup (CurseForge)](https://drop8k.github.io/docs/server/installation1.html#first-time-setup-curseforge)
+- [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks)
+- [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation1.html#uninstalling-modpacks)
+
 ## First-Time Setup (CurseForge)
 > *If you have CurseForge configured already, you can skip to [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks).*
 
