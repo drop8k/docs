@@ -63,12 +63,26 @@ By default, CurseForge will automatically make profiles for your modpacks.
 ![WindowsSandboxClient_R4wFIaJAaU](https://user-images.githubusercontent.com/92121005/181117431-e09bdd2a-42fa-4576-94d1-fe9767a04a49.gif)
 
 ### SKLauncher: Method 1 (Recommended)
+SKLauncher can work with CurseForge and will automatically create a profile just like the vanilla launcher, while still allowing you to launch from CurseForge.
+
 - Download the [SKLauncher](https://skmedix.pl/sklauncher) executable and save it to a directory. `.jar` versions will not work.
 - Locate the Minecraft installation folder created by CurseForge and navigate to `Install`.
    - By default, CurseForge places it under: `C:\Users\<your_name>\curseforge\minecraft\Install`, replacing `<your_name>` with the name of your user folder.
 - Delete/rename the `minecraft.exe` file found in `Install` (e.g. `minecraft.exe.bak`). Then, drag the SKLauncher executable (e.g. `SKlauncher_3-beta.21.exe`) into the directory and rename it to `minecraft.exe`.
 ![WindowsSandboxClient_jPOvtvhGJj](https://user-images.githubusercontent.com/92121005/181118888-f66a9114-6b8e-442a-b5af-726d91b788c0.gif)
-   - test
+   - If you cannot rename the `minecraft` executable, make sure you've enabled ***File name extensions*** in ***File Explorer*** > ***View*** > ***Show/hide***.
+     ![WindowsSandboxClient_1g14xQ3BDe](https://user-images.githubusercontent.com/92121005/181119433-7372fadc-b394-4562-960f-073e4b2870ad.gif)
+- Once complete, SKLauncher should appear instead when you hit ***Play***.
+
+![WindowsSandboxClient_vn8raRWlHe](https://user-images.githubusercontent.com/92121005/181120330-7aa776c7-1131-420c-abed-9d121558c4cc.gif)
+
+### SKLauncher: Method 2
+- Download and launch the [SKLauncher](https://skmedix.pl/sklauncher) executable.
+- Create a new profile with the Minecraft version of the modpack. Then, click on the ***3 Dots*** > ***Edit Profile*** > ***Game Settings*** > ***Game Directory***.
+   - Set the ***Game Directory*** to the location of the modpack installed by CurseForge.
+
+![WindowsSandboxClient_GgExcRvViV](https://user-images.githubusercontent.com/92121005/181120658-ba7d5aba-4d4e-40ff-b50a-02ebbe593807.gif)
+- Launch the modpack by selecting on the profile and clicking ***Play***.
 
 ## Uninstalling Modpacks
 - To uninstall a modpack, open the CurseForge app and head to the left sidebar. Select ***Minecraft*** > ***My Modpacks***. Click on the modpack > ***3 Dots*** > ***Delete Profile***.
