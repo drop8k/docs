@@ -6,11 +6,11 @@ nav_order: 2
 ---
 
 # Installing Modpacks Using CurseForge App (Windows)
+> This guide assumes you have a legitimate copy of Minecraft Java Edition.
+
 Modpacks can be installed conveniently and easily using the CurseForge mod launcher.
 
 This guide is for Windows operating systems.
-
-> This guide assumes you have a legitimate copy of Minecraft Java Edition.
 
 - [First-Time Setup (CurseForge)](https://drop8k.github.io/docs/server/installation1.html#first-time-setup-curseforge)
 - [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks)
