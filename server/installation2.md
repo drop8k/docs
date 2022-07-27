@@ -17,6 +17,7 @@ This guide is for Linux operating systems.
 - [Downloading Modpacks](https://drop8k.github.io/docs/server/installation2.html#downloading-modpacks)
 - [Adding Profiles to Launcher](https://drop8k.github.io/docs/server/installation2.html#adding-profiles-to-launcher)
 - [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation2.html#uninstalling-modpacks)
+- [Troubleshooting](https://drop8k.github.io/docs/server/installation2.html#troubleshooting)
 
 ## Prerequisities
 - [OpenJDK](https://openjdk.org/) or OpenJRE
@@ -96,3 +97,10 @@ Modpacks are installed in CurseForge CLI via a direct link to the file ID.
 ## Uninstalling Modpacks
 - Delete the modpack under `/modpack`.
    - If you use MultiMC/UltimMC, open the launcher and right-click on your instance, then click on ***Delete***.
+
+## Troubleshooting
+### MultiMC/UltimMC still requires a newer version of Java and won't launch
+Make sure MultiMC is using the correct Java version in settings.
+
+- In the launcher, navigate to ***Settings*** > ***Java*** > ***Java Runtime*** > ***Auto-detect...***. Select the appropriate version of Java in the window shown.
+![vmware_qKqUqwQG17](https://user-images.githubusercontent.com/92121005/181141372-a8119b07-0509-416a-b44b-ce66d22b61c1.gif)
