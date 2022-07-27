@@ -12,10 +12,27 @@ Modpacks from CurseForge can be downloaded by using [CurseForge-CLI](https://git
 
 This guide is for Linux operating systems.
 
+- [Prerequisities](https://drop8k.github.io/docs/server/installation2.html#prerequisities)
 - [Downloading CurseForge CLI](https://drop8k.github.io/docs/server/installation2.html#downloading-curseforge-cli)
 - [Downloading Modpacks](https://drop8k.github.io/docs/server/installation2.html#downloading-modpacks)
 - [Adding Profiles to Launcher](https://drop8k.github.io/docs/server/installation2.html#adding-profiles-to-launcher)
 - [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation2.html#uninstalling-modpacks)
+
+## Prerequisities
+- [OpenJDK](https://openjdk.org/) or OpenJRE
+
+OpenJDK/OpenJRE is required to play Minecraft Java Edition. *Certain versions of Minecraft may require a newer or older version of Java.*
+
+Install various versions of OpenJDK with the following:
+- [OpenJDK 17](https://openjdk.org/projects/jdk/17)
+   - [Arch:](https://archlinux.org/packages/extra/x86_64/jdk17-openjdk/) `sudo pacman -S jdk17-openjdk`
+   - Debian: `sudo apt install openjdk-17-jdk`
+- [OpenJDK 11](https://openjdk.org/projects/jdk/11)
+   - [Arch:](https://archlinux.org/packages/extra/x86_64/jdk11-openjdk/) `sudo pacman -S jdk11-openjdk`
+   - Debian: `sudo apt install openjdk-11-jdk`
+- [OpenJDK 8](https://openjdk.org/projects/jdk8/)
+   - [Arch:](https://archlinux.org/packages/extra/x86_64/jdk8-openjdk/) `sudo pacman -S jdk8-openjdk`
+   - Debian: `sudo apt install openjdk-8-jdk`
 
 ## Downloading CurseForge CLI
 - Head to the [CurseForge-CLI](https://github.com/North-West-Wind/CurseForge-CLI) GitHub repository. Select **Releases** and download `curseforge.zip` from the latest release.
