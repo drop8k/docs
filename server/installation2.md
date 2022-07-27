@@ -23,7 +23,7 @@ This guide is for Linux operating systems.
 
 OpenJDK/OpenJRE is required to play Minecraft Java Edition. *Certain versions of Minecraft may require a newer or older version of Java.*
 
-Install various versions of OpenJDK with the following:
+Launch the terminal. Install various versions of OpenJDK with the following:
 - [OpenJDK 17](https://openjdk.org/projects/jdk/17)
    - [Arch:](https://archlinux.org/packages/extra/x86_64/jdk17-openjdk/) `sudo pacman -S jdk17-openjdk`
    - Debian: `sudo apt install openjdk-17-jdk`
