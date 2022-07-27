@@ -12,6 +12,7 @@ ZeroTier is required to join game servers or to connect to some of drop's server
 
 - [Windows](https://drop8k.github.io/docs/misc/zerotier.html#windows)
 - [Linux](https://drop8k.github.io/docs/misc/zerotier.html#linux)
+- [Troubleshooting](https://drop8k.github.io/docs/misc/zerotier.html#troubleshooting)
 
 ## Windows
 
@@ -46,6 +47,13 @@ ZeroTier is required to join game servers or to connect to some of drop's server
 
 ![vmware_DIskzMYnoC](https://user-images.githubusercontent.com/92121005/181079538-b7b01bb9-959f-4a6d-9e42-a3ea2ddc5bd3.gif)
 
+- Set the `zerotier-one` service to run on startup.
+   - Arch: `sudo systemctl enable zerotier-one`
+      - If needed, you can start the ZeroTier service with `sudo systemctl start zerotier-one`.
+      - *You may experience an error similar to the GIF below if you do not enable it.*
+
+![vmware_UJoXLGi1iJ](https://user-images.githubusercontent.com/92121005/181142683-e5ec9d0d-78ae-4f7b-b2d4-af7dda7d7b06.gif)
+
 ### Connecting to a Network
 - In terminal, type `sudo zerotier-cli join <network_ID>`, replacing `<network_ID>` with the unique 16-digit network ID set up by you or provided by the administrator.
 - Check that you are connected by typing `sudo zerotier-cli listnetworks`. *If successful, the network will show up.*
@@ -57,3 +65,5 @@ ZeroTier is required to join game servers or to connect to some of drop's server
 - In terminal, type `sudo zerotier-cli leave <network_ID>`, replacing `<network_ID>` with the unique 16-digit network ID you wish to disconnect from.
 
 ![vmware_0WXnkOTBA8](https://user-images.githubusercontent.com/92121005/181080574-cac25270-6939-44d7-bcb9-61980416cf5f.gif)
+
+
