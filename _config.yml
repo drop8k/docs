@@ -3,5 +3,6 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 logo: "/assets/logo.png"
+favicon: "/assets/logo.ico"
 plugins:
   - jekyll-seo-tag
