@@ -1,7 +1,7 @@
 ---
 title: Connecting to a Server
 parent: Minecraft
-has_children: true
+has_children: false
 nav_order: 4
 ---
 
