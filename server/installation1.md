@@ -10,10 +10,14 @@ Modpacks can be installed conveniently and easily using the CurseForge mod launc
 
 This guide is for Windows operating systems.
 
+- [Prerequisities](https://drop8k.github.io/docs/server/installation1.html#prerequisities)
 - [First-Time Setup (CurseForge)](https://drop8k.github.io/docs/server/installation1.html#first-time-setup-curseforge)
 - [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks)
 - [Adding Profiles to Launcher](https://drop8k.github.io/docs/server/installation1.html#adding-profiles-to-launcher)
 - [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation1.html#uninstalling-modpacks)
+
+## Prerequisites
+- [Java Runtime Environment](https://www.java.com/en/download/)/[JDK](https://www.oracle.com/java/technologies/downloads/) or [Liberica JDK](https://bell-sw.com/pages/downloads/) (Full JRE)
 
 ## First-Time Setup (CurseForge)
 > *If you have CurseForge configured already, you can skip to [Downloading Modpacks](https://drop8k.github.io/docs/server/installation1.html#downloading-modpacks).*
