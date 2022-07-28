@@ -6,9 +6,9 @@ nav_order: 1
 ---
 
 # Configuring ZeroTier
-drop servers use [ZeroTier](https://www.zerotier.com) to allow users to connect without being on the same home network. 
+drop servers use the [ZeroTier](https://www.zerotier.com) virtual network to allow users to connect to servers from their home network. 
 
-ZeroTier is required to join game servers or to connect to some of drop's servers, and you will not be able to connect without setting up your client.
+**ZeroTier is required to join game servers or to connect to some of drop's servers**, and you will not be able to connect without setting up your client.
 
 - [Windows](https://drop8k.github.io/docs/misc/zerotier.html#windows)
 - [Linux](https://drop8k.github.io/docs/misc/zerotier.html#linux)
@@ -65,5 +65,3 @@ ZeroTier is required to join game servers or to connect to some of drop's server
 - In terminal, type `sudo zerotier-cli leave <network_ID>`, replacing `<network_ID>` with the unique 16-digit network ID you wish to disconnect from.
 
 ![vmware_0WXnkOTBA8](https://user-images.githubusercontent.com/92121005/181080574-cac25270-6939-44d7-bcb9-61980416cf5f.gif)
-
-
