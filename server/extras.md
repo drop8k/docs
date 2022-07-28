@@ -6,17 +6,19 @@ nav_order: 5
 ---
 
 # Extra Mods
-Some additional mods are required for clients to join Minecraft servers on top of mods used by CurseForge.
+> See [Installing Extra Mods](https://drop8k.github.io/docs/server/extras-install.html) on how to use these mods.
 
-See [Installing Extra Mods](https://drop8k.github.io/docs/server/extras-install.html) on how to use these mods.
+Some additional mods are required for clients to join Minecraft servers on top of mods used by CurseForge.
 
 ## List of Extra Mods
 Extra mods can be found on download mirrors.
 
 Alternatively, mods can be installed manually. Below is a list of these mods:
 
-### **`TBD`** [1.12.2] [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)
-> *No additional mods.*
+### **`7/27/22`** [1.12.2] [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)
+- `7/27/22` [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/3695974) `CustomSkinLoader_ForgeLegacy-14.13.jar`
+- `7/27/22` [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002) `journeymap-1.12.2-5.7.1.jar`
+- `7/27/22` [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280) `theoneprobe-1.12-1.4.28.jar`
 
 ### **`6/4/22`** [1.12.2] [PixelmonMod v8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)
 - `6/6/22` [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063) `appliedenergistics2-rv6-stable-7.jar`
