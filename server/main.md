@@ -17,7 +17,7 @@ drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers 
 
 | Date    | Server IP      | MC Version | Modpack       | Modpack Version                                                                        | 
 | :------ | :------------- | :--------- | :------------ | :------------------------------------------------------------------------------------- |
-| TBD     | `-`            | 1.12.2     | RLCraft       | [Release v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670) | 
+| 7/27/22 | `172.27.76.80` | 1.12.2     | RLCraft       | [Release v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670) | 
 | 6/4/22  | `172.27.76.80` | 1.12.2     | Pixelmon      | [Release 8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)   |
 
 Active servers are constantly backed up prior to updates/changes and every day (locally and offsite) to ensure data retention.
