@@ -16,7 +16,7 @@ Extra mods can be found on download mirrors.
 Alternatively, mods can be installed manually. Below is a list of these mods:
 
 ### **`7/27/22`** [1.12.2] [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)
-- `7/27/22` [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/3695974) `CustomSkinLoader_ForgeLegacy-14.13.jar`
+- `7/27/22` [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader/files/3695974) `CustomSkinLoader_ForgeLegacy-14.13.jar` *(optional)*
 - `7/27/22` [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002) `journeymap-1.12.2-5.7.1.jar`
 - `7/27/22` [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280) `theoneprobe-1.12-1.4.28.jar`
 
