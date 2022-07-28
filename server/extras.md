@@ -20,6 +20,8 @@ Alternatively, mods can be installed manually. Below is a list of these mods:
 - `7/27/22` [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002) `journeymap-1.12.2-5.7.1.jar`
 - `7/27/22` [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280) `theoneprobe-1.12-1.4.28.jar`
 
+> **1 additional mod is currently unavailable.** Please contact the server administrator.
+
 ### **`6/4/22`** [1.12.2] [PixelmonMod v8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)
 - `6/6/22` [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063) `appliedenergistics2-rv6-stable-7.jar`
 - `6/6/22` [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei/files/2478647) `jei_1.12.1-4.7.8.95.jar`
