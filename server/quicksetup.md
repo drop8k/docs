@@ -35,7 +35,7 @@ Modpacks used can be found in the [Servers](https://drop8k.github.io/docs/server
 
 > **For Linux**, see the [CurseForge CLI](https://drop8k.github.io/docs/server/installation2.html) setup guide on installing modpacks and configuring your launcher.
 
-## Extra Mods
+## Step 3: Extra Mods
 Some of drop's servers will require additional mods to be installed, usually on top of ones already provided by a modpack. *Most additional mods are required in order to join a server, otherwise your client will refuse to connect.*
 
 Additionally, some mods operate client-only, *meaning they are not necessary to join the server*, but it may improve user experience.
@@ -44,7 +44,7 @@ Additionally, some mods operate client-only, *meaning they are not necessary to 
 
 > See [Installing Extra Mods](https://drop8k.github.io/docs/server/extras-install.html) on how to install them for your client.
 
-## Connecting to a Server
+## Step 4: Connecting to a Server
 Server IPs are provided on the [Minecraft](https://drop8k.github.io/docs/server/main.html) home page or in supported Discord servers.
 
 **ZeroTier is required to connect to these addresses.** drop uses local IPs provided by ZeroTier, which are accessible to connected clients.
