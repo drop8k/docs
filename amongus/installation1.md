@@ -8,13 +8,17 @@ nav_order: 2
 # Installing Mods
 > This guide will be using Windows. *Linux operating systems may or may not be supported.*
 
+- [Downloading Mods](https://drop8k.github.io/docs/amongus/installation1.html#downloading-mods)
+- [Creating a Modded Instance](https://drop8k.github.io/docs/amongus/installation1.html#creating-a-modded-instance)
+- [Connecting to a Server](https://drop8k.github.io/docs/amongus/installation1.html#connecting-to-a-server)
+
 ## Downloading Mods
 ### [LasMonjas](https://github.com/KiraYamato94/LasMonjas)
 - Download `LasMonjas.zip` from the latest GitHub release. Head to the [LasMonjas](https://github.com/KiraYamato94/LasMonjas) repository > ***Releases***.
 
 ![WindowsSandboxClient_5n4s80I54L](https://user-images.githubusercontent.com/92121005/182039829-9ab7b697-79a0-4684-88f4-3737bf497be2.gif)
 
-## Creating the Modded Instance
+## Creating a Modded Instance
 ### Steam
 - Create a copy of your existing Among Us installation.
 - In the Steam application, navigate to ***Library***. Find Among Us, right-click > ***Manage*** > ***Browse local files***.
