@@ -45,7 +45,9 @@ This guide uses [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher
 - Click on the Among Us game installation. From ***Info***, click on ***Install Path***.
 - From the new File Explorer window, go back one path, right-click on `Among Us` > ***Copy*** (***Ctrl*** + ***C***). Make a duplicate by right-clicking on the folder > ***Paste*** (***Ctrl*** + ***V***).
 - Navigate to the new folder. Extract the archive's contents to the new directory. *This example uses [LasMonjas](https://github.com/KiraYamato94/LasMonjas)*, however installation may vary.
-- Launch the modded Among Us instance by using the `Among Us` executable in the modded folder.
+- Launch the modded Among Us instance by using Heroic. **Among Us will refuse to launch on its own without the EGL service.**
+   - In ***Library***, select your Among Us install > ***Tools*** > ***Change install path***. In the new window, select the modded instance's folder.
+   - Select an alternative executable for Heroic to run by going to ***Info*** > ***Settings*** > ***Select an alternative EXE to run***. In the new window, select the modded instance's copy of `Among Us.exe`.
 
 ## Connecting to a Server
 > ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
