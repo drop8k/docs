@@ -14,6 +14,6 @@ Servers use the [Reactor](https://github.com/NuclearPowered/Reactor) modding API
 ## Servers
 > ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
 
-| Download File  | Server IP      | Impostor Version                                                   | 
-| :------------- | :------------- | :----------------------------------------------------------------- |
-| TBD            | `-`            | [v1.7.1](https://github.com/Impostor/Impostor/releases/tag/v1.7.1) | 
+| Download File                                                                                            | Server IP      | Impostor Version                                                   | 
+| :------------------------------------------------------------------------------------------------------- | :------------- | :----------------------------------------------------------------- |
+| [Download](https://cdn.discordapp.com/attachments/971213997258969129/1003411601694662656/regionInfo.json)| `-`            | [v1.7.1](https://github.com/Impostor/Impostor/releases/tag/v1.7.1) | 
