@@ -20,6 +20,7 @@ Alternatively, mods can be installed manually. Below is a list of these mods:
 - `7/27/22` [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002) `journeymap-1.12.2-5.7.1.jar`
 - `7/27/22` [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280) `theoneprobe-1.12-1.4.28.jar`
 - `7/28/22` [OptiFine](https://optifine.net/downloads) `OptiFine_1.12.2_HD_U_G5.jar` *(optional)*
+- `7/30/22` [SimpleLogin](https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748) `simplelogin-1.2.4-beta+build127.jar`
 
 > **1 additional mod is currently unavailable.** Please contact the server administrator.
 
