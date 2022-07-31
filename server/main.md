@@ -8,7 +8,7 @@ nav_order: 3
 drop hosts various Minecraft servers for end users to play.
 
 Minecraft Servers run on various dependencies:
-- OpenJDK: [OpenJDK 17](https://openjdk.org/projects/jdk/17/)
+- OpenJDK: [OpenJDK 17](https://openjdk.org/projects/jdk/17/) / [OpenJDK 8](https://openjdk.org/projects/jdk8/)
 
 drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers over the internet to end users.
 
