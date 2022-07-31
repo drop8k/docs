@@ -9,7 +9,7 @@ nav_order: 2
 This guide is for Windows operating systems.
 
 ## Installing Mods
-TBD
+wip
 
 ## Connecting to a Server
 > ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
