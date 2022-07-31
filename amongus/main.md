@@ -9,6 +9,8 @@ drop runs Among Us private servers using [Impostor](https://github.com/Impostor/
 
 drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers over the internet to end users.
 
+Servers use the [Reactor](https://github.com/NuclearPowered/Reactor) modding API to support mods.
+
 ## Servers
 > ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
 
