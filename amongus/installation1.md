@@ -6,6 +6,8 @@ nav_order: 2
 ---
 
 # Installing Mods
+> ⚠ **This page is incomplete.** Some information may be incorrect, out-of-date, or missing.
+
 > This guide will be using Windows. *Linux operating systems may or may not be supported.*
 
 - [Downloading Mods](https://drop8k.github.io/docs/amongus/installation1.html#downloading-mods)
@@ -20,8 +22,8 @@ nav_order: 2
 
 ## Creating a Modded Instance
 ### Steam
-- Create a copy of your existing Among Us installation.
-- In the Steam application, navigate to ***Library***. Find Among Us, right-click > ***Manage*** > ***Browse local files***.
+- Create a copy of your existing Among Us installation. Open the Steam application, navigate to ***Library***.
+- Find Among Us, right-click > ***Manage*** > ***Browse local files***.
    - The default Steam install directory can be found under `C:\Program Files (x86)\Steam\steamapps\common\`.
 - From the new File Explorer window, go back one path, right-click on `Among Us` > ***Copy*** (***Ctrl*** + ***C***). Make a duplicate by right-clicking on the folder > ***Paste*** (***Ctrl*** + ***V***).
 
@@ -33,8 +35,17 @@ nav_order: 2
 
 - Launch the modded Among Us instance by using the `Among Us` executable in the modded folder.
 
-### Epic Games
+### Epic Games (Official Launcher)
 wip
+
+### Epic Games (Heroic)
+This guide uses [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher), which supports the EGL game library.
+
+- Create a copy of your existing Among Us installation. Open the Heroic application, navigate to ***Library***.
+- Click on the Among Us game installation. From ***Info***, click on ***Install Path***.
+- From the new File Explorer window, go back one path, right-click on `Among Us` > ***Copy*** (***Ctrl*** + ***C***). Make a duplicate by right-clicking on the folder > ***Paste*** (***Ctrl*** + ***V***).
+- Navigate to the new folder. Extract the archive's contents to the new directory. *This example uses [LasMonjas](https://github.com/KiraYamato94/LasMonjas)*, however installation may vary.
+- Launch the modded Among Us instance by using the `Among Us` executable in the modded folder.
 
 ## Connecting to a Server
 > ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
