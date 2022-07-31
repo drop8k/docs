@@ -1,14 +1,35 @@
 ---
-title: Installing Mods (Windows)
+title: Installing Mods
 parent: Among Us
 has_children: false
 nav_order: 2
 ---
 
-# Installing Mods (Windows)
-This guide is for Windows operating systems.
+# Installing Mods
+> This guide will be using Windows. *Linux operating systems may or may not be supported.*
 
-## Installing Mods
+## Downloading Mods
+### [LasMonjas](https://github.com/KiraYamato94/LasMonjas)
+- Download `LasMonjas.zip` from the latest GitHub release. Head to the [LasMonjas](https://github.com/KiraYamato94/LasMonjas) repository > ***Releases***.
+
+![WindowsSandboxClient_5n4s80I54L](https://user-images.githubusercontent.com/92121005/182039829-9ab7b697-79a0-4684-88f4-3737bf497be2.gif)
+
+## Creating the Modded Instance
+### Steam
+- Create a copy of your existing Among Us installation.
+- In the Steam application, navigate to ***Library***. Find Among Us, right-click > ***Manage*** > ***Browse local files***.
+   - The default Steam install directory can be found under `C:\Program Files (x86)\Steam\steamapps\common\`.
+- From the new File Explorer window, go back one path, right-click on `Among Us` > ***Copy*** (***Ctrl*** + ***C***). Make a duplicate by right-clicking on the folder > ***Paste*** (***Ctrl*** + ***V***).
+
+![WindowsSandboxClient_EzKHZuzutH](https://user-images.githubusercontent.com/92121005/182039672-475841b9-6129-4202-b223-9bb6cf4ac9d8.gif)
+
+- Navigate to the new folder. Extract the archive's contents to the new directory. *This example uses [LasMonjas](https://github.com/KiraYamato94/LasMonjas)*, however installation may vary.
+
+![WindowsSandboxClient_Oxf0utIPjA](https://user-images.githubusercontent.com/92121005/182039923-0e6a422f-ea13-4d44-8a97-d704457867a4.gif)
+
+- Launch the modded Among Us instance by using the `Among Us` executable in the modded folder.
+
+### Epic Games
 wip
 
 ## Connecting to a Server
