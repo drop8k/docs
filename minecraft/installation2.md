@@ -12,12 +12,12 @@ Modpacks from CurseForge can be downloaded by using [CurseForge-CLI](https://git
 
 This guide is for Linux operating systems.
 
-- [Prerequisities](https://drop8k.github.io/docs/server/installation2.html#prerequisities)
-- [Downloading CurseForge CLI](https://drop8k.github.io/docs/server/installation2.html#downloading-curseforge-cli)
-- [Downloading Modpacks](https://drop8k.github.io/docs/server/installation2.html#downloading-modpacks)
-- [Adding Profiles to Launcher](https://drop8k.github.io/docs/server/installation2.html#adding-profiles-to-launcher)
-- [Uninstalling Modpacks](https://drop8k.github.io/docs/server/installation2.html#uninstalling-modpacks)
-- [Troubleshooting](https://drop8k.github.io/docs/server/installation2.html#troubleshooting)
+- [Prerequisities](https://drop8k.github.io/docs/minecraft/installation2.html#prerequisities)
+- [Downloading CurseForge CLI](https://drop8k.github.io/docs/minecraft/installation2.html#downloading-curseforge-cli)
+- [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation2.html#downloading-modpacks)
+- [Adding Profiles to Launcher](https://drop8k.github.io/docs/minecraft/installation2.html#adding-profiles-to-launcher)
+- [Uninstalling Modpacks](https://drop8k.github.io/docs/minecraft/installation2.html#uninstalling-modpacks)
+- [Troubleshooting](https://drop8k.github.io/docs/minecraft/installation2.html#troubleshooting)
 
 ## Prerequisities
 - [OpenJDK](https://openjdk.org/) or OpenJRE
