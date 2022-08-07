@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 # Minecraft
-drop hosts various Minecraft servers for end users to play.
+drop hosts Minecraft vanilla and modded servers for players.
 
 Minecraft Servers run on various dependencies:
 - OpenJDK: [OpenJDK 17](https://openjdk.org/projects/jdk/17/) / [OpenJDK 8](https://openjdk.org/projects/jdk8/)
