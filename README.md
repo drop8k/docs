@@ -3,9 +3,9 @@
 > ### <img src="https://raw.githubusercontent.com/drop8k/docs/main/assets/logo.png" width="16"> **Welcome to the new drop documentation!** 
 > **This site is an active work-in-progress as we settle in.** *Our former site will be depreciated.*
 
-drop is a network providing end users with tools and services.
+drop is a network providing end users with several tools and services.
 
-drop runs on various hardware to ensure upmost reliability and flexibility.
+Servers run on various hardware to ensure upmost reliability and flexibility.
 
 ## Index
 
