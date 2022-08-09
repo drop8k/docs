@@ -15,11 +15,11 @@ drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers 
 ## Servers
 > ⚠ **You must be registered on the ZeroTier network to join.** See how to join in [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html).
 
-| Date    | Name         | Group    | Server IP      | MC Version | Modpack                                                                                    | 
-| :------ | :----------- | :------  | :------------- | :--------- | :----------------------------------------------------------------------------------------- |
-| 7/27/22 | RLCraft      | Pancakes | `172.27.43.20` | 1.12.2     | [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)     | 
-| 6/4/22  | Pixelmon     | Pancakes | `172.27.76.80` | 1.12.2     | [PixelmonMod 8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)   |
-| -       | Test Server  | -        | `172.27.10.80` | 1.8.9      | *Vanilla*                                                                                  |
+| Date    | Name         | Network     | Server IP      | MC Version | Modpack                                                                                    | 
+| :------ | :----------- | :---------  | :------------- | :--------- | :----------------------------------------------------------------------------------------- |
+| 7/27/22 | RLCraft      | `pancake8k` | `172.27.43.20` | 1.12.2     | [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)     | 
+| 6/4/22  | Pixelmon     | `pancake8k` | `172.27.76.80` | 1.12.2     | [PixelmonMod 8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)   |
+| -       | Test Server  | -           | `172.27.10.80` | 1.8.9      | *Vanilla*                                                                                  |
 
 Active servers are constantly backed up prior to updates/changes and every day (locally and offsite) to ensure data retention.
 
