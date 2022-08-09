@@ -6,17 +6,17 @@ nav_order: 2
 ---
 
 # Installing Modpacks Using CurseForge App (Windows)
-> Jump to [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation1.html#downloading-modpacks) if you have CurseForge pre-configured.
+> Jump to [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation/windows.html#downloading-modpacks) if you have CurseForge pre-configured.
 
 Modpacks can be installed conveniently and easily using the CurseForge mod launcher.
 
 This guide is for Windows operating systems.
 
-- [Prerequisities](https://drop8k.github.io/docs/minecraft/installation1.html#prerequisites)
-- [First-Time Setup (CurseForge)](https://drop8k.github.io/docs/minecraft/installation1.html#first-time-setup-curseforge)
-- [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation1.html#downloading-modpacks)
-- [Adding Profiles to Launcher](https://drop8k.github.io/docs/minecraft/installation1.html#adding-profiles-to-launcher)
-- [Uninstalling Modpacks](https://drop8k.github.io/docs/minecraft/installation1.html#uninstalling-modpacks)
+- [Prerequisities](https://drop8k.github.io/docs/minecraft/installation/windows.html#prerequisites)
+- [First-Time Setup (CurseForge)](https://drop8k.github.io/docs/minecraft/installation/windows.html#first-time-setup-curseforge)
+- [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation/windows.html#downloading-modpacks)
+- [Adding Profiles to Launcher](https://drop8k.github.io/docs/minecraft/installation/windows.html#adding-profiles-to-launcher)
+- [Uninstalling Modpacks](https://drop8k.github.io/docs/minecraft/installation/windows.html#uninstalling-modpacks)
 
 ## Prerequisites
 - [Java Runtime Environment](https://www.java.com/en/download/)/[JDK](https://www.oracle.com/java/technologies/downloads/) or [Liberica JDK](https://bell-sw.com/pages/downloads/) (Full JRE)
