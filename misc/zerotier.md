@@ -12,7 +12,6 @@ drop servers use the [ZeroTier](https://www.zerotier.com) virtual network to all
 
 - [Windows](https://drop8k.github.io/docs/misc/zerotier.html#windows)
 - [Linux](https://drop8k.github.io/docs/misc/zerotier.html#linux)
-- [Troubleshooting](https://drop8k.github.io/docs/misc/zerotier.html#troubleshooting)
 
 ## Windows
 
