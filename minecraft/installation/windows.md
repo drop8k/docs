@@ -6,6 +6,8 @@ nav_order: 2
 ---
 
 # Installing Modpacks Using CurseForge App (Windows)
+> Jump to [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation1.html#downloading-modpacks) if you have CurseForge pre-configured.
+
 Modpacks can be installed conveniently and easily using the CurseForge mod launcher.
 
 This guide is for Windows operating systems.
@@ -19,8 +21,7 @@ This guide is for Windows operating systems.
 ## Prerequisites
 - [Java Runtime Environment](https://www.java.com/en/download/)/[JDK](https://www.oracle.com/java/technologies/downloads/) or [Liberica JDK](https://bell-sw.com/pages/downloads/) (Full JRE)
 
-## First-Time Setup (CurseForge)
-> *If you have CurseForge configured already, you can skip to [Downloading Modpacks](https://drop8k.github.io/docs/minecraft/installation1.html#downloading-modpacks).*
+## First-Time Setup (CurseForge
 
 - Download [CurseForge](https://download.curseforge.com/) and run the installer.
    - **CurseForge requires [Overwolf](https://www.overwolf.com/) to be installed.** *If you do not have Overwolf installed, the setup will install it for you.*
@@ -40,6 +41,7 @@ Modpacks can be installed by browsing the CurseForge website or using the CurseF
 
 ### Using the CurseForge Website
 - Launch the [CurseForge](https://www.curseforge.com/minecraft/modpacks) website for Minecraft modpacks. *You may also receive a direct link to the modpack instead; open or paste this link in your browser.*
+   - You can find the modpacks servers use under [Servers](https://drop8k.github.io/docs/server/main.html#servers).
 - Install modpacks using the **Install** button. It should automatically launch CurseForge and begin installation.
 
 ![WindowsSandboxClient_EdplxAV8uA](https://user-images.githubusercontent.com/92121005/180908517-ba47e568-bdba-4169-8ce7-33cf1f98f775.gif)
