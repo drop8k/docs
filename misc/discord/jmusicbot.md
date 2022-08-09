@@ -45,9 +45,9 @@ exec $SHELL
 - Example file structure:
 ```
 ~/JMusicBot/
-⎿ Playlists/
-  ⎿ ExamplePlaylist.txt
-⎿ config.txt
-⎿ JMusicBot-0.3.8.jar
-⎿ serversettings.json
+..⎿ Playlists/
+....⎿ ExamplePlaylist.txt
+..⎿ config.txt
+..⎿ JMusicBot-0.3.8.jar
+..⎿ serversettings.json
 ```
