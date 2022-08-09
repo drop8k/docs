@@ -1,7 +1,7 @@
 ---
 title: Deploying JMusicBot
 parent: Discord
-has_children: false
+grand_parent: Other
 nav_order: 2
 ---
 
