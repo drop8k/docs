@@ -5,6 +5,8 @@ nav_order: 3
 ---
 
 # Minecraft
+> **Joining for the first time?** See how to configure your client in [Windows](https://drop8k.github.io/docs/minecraft/installation/windows.html) or [Linux](https://drop8k.github.io/docs/minecraft/installation/linux.html).
+
 drop hosts Minecraft vanilla and modded servers for players.
 
 Minecraft Servers run on various dependencies:
@@ -20,6 +22,8 @@ drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers 
 | 7/27/22 | RLCraft      | `pancake8k` | `172.27.43.20` | 1.12.2     | [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)     | 
 | 6/4/22  | Pixelmon     | `pancake8k` | `172.27.76.80` | 1.12.2     | [PixelmonMod 8.4.2](https://www.curseforge.com/minecraft/mc-mods/pixelmon/files/3794035)   |
 | -       | Test Server  | -           | `172.27.10.80` | 1.8.9      | *Vanilla*                                                                                  |
+
+- **Installing a modpack?** See how to download modpacks in [Windows](https://drop8k.github.io/docs/minecraft/installation/windows.html#downloading-modpacks) or [Linux](https://drop8k.github.io/docs/minecraft/installation/linux.html#downloading-modpacks).
 
 Active servers are constantly backed up prior to updates/changes and every day (locally and offsite) to ensure data retention.
 
