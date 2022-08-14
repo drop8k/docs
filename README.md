@@ -10,7 +10,7 @@ Servers run on various hardware to ensure upmost reliability and flexibility.
 ## Index
 
 - [Discord](https://drop8k.github.io/docs/discord/main.html)
-   - [Commands (JMusicBot)](https://drop8k.github.io/docs/discord/commands1.html)
+   - [Commands (JMusicBot)](https://drop8k.github.io/docs/discord/commands/jmusicbot.html)
 - [Minecraft](https://drop8k.github.io/docs/minecraft/main.html)
    - [Quick Setup Guide](https://drop8k.github.io/docs/minecraft/quicksetup.html)
    - [Installing Modpacks Using CurseForge App (Windows)](https://drop8k.github.io/docs/minecraft/installation1.html)
