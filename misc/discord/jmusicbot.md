@@ -8,10 +8,10 @@ nav_order: 2
 # Deploying JMusicBot
 
 ## Ubuntu
-> This guide assumes `sudo` or `root` access.
+> This guide assumes `sudo` privilege or `root` access.
 
 ### Prerequisities
-- Install necessary dependencies:
+- Update packages and install required dependencies:
 ```
 apt update && apt upgrade && apt install -y openjdk-11-jdk screen nano wget
 ```
