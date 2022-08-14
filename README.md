@@ -21,4 +21,3 @@ Servers run on various hardware to ensure upmost reliability and flexibility.
 - [Among Us](https://drop8k.github.io/docs/amongus/main.html)
    - [Installing Mods](https://drop8k.github.io/docs/amongus/installation1.html)
 - [Other](https://drop8k.github.io/docs/misc/main.html)
-   - [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html)
