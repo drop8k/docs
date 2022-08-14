@@ -17,7 +17,7 @@ Servers run on Debian-based Linux operating systems and use the [OpenJDK](https:
 
 | #     | Region  | Bot Version                                                               | OpenJDK Version                                         | Operating System                |
 | :---- | :------ | :------------------------------------------------------------------------ | :------------------------------------------------------ | :------------------------------ |
-| drop1 | NA-East | [JMusicBot 0.3.8](https://github.com/jagrosh/MusicBot/releases/tag/0.3.8) | [OpenJDK 11.0.15](https://openjdk.org/projects/jdk/11/) | Debian GNU/Linux 11 (aarch64)   |
+| drop1 | NA-East | [lavamusic v2.0.2](https://github.com/brblacky/lavamusic)                 | [OpenJDK 11.0.16](https://openjdk.org/projects/jdk/11/) | Ubuntu Server 22.04 LTS         |
 | drop2 | EU-West | [JMusicBot 0.3.8](https://github.com/jagrosh/MusicBot/releases/tag/0.3.8) | [OpenJDK 11.0.15](https://openjdk.org/projects/jdk/11/) | Ubuntu 18.04 LTS Docker (amd64) |
 | drop3 | -       | -                                                                         | -                                                       | -                               |
 
