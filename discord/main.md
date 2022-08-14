@@ -25,11 +25,14 @@ drop uses [JMusicBot](https://github.com/jagrosh/MusicBot) for its Discord bots.
 ## Hardware
 Servers run on Debian-based Linux operating systems and use the [Node.js](https://nodejs.org/en/) runtime.
 
-| #     | Region  | Bot Version                                                               | OpenJDK Version                                         | Operating System                |
-| :---- | :------ | :------------------------------------------------------------------------ | :------------------------------------------------------ | :------------------------------ |
-| drop1 | NA-East | [lavamusic v2.0.2](https://github.com/brblacky/lavamusic)                 | [OpenJDK 11.0.16](https://openjdk.org/projects/jdk/11/) | Debian GNU/Linux 11 (aarch64)   |
-| drop2 | NA-East | [lavamusic v2.0.2](https://github.com/brblacky/lavamusic)                 | [OpenJDK 11.0.16](https://openjdk.org/projects/jdk/11/) | Debian GNU/Linux 11 (aarch64)   |
-| drop3 | -       | -                                                                         | -                                                       | -                               |
+| #     | Region  | Bot Version                                                               | Node.js Version                                          | OpenJDK Version                                         | Operating System                |
+| :---- | :------ | :------------------------------------------------------------------------ | :------------------------------------------------------- | :------------------------------------------------------ | :------------------------------ |
+| drop1 | NA-East | [lavamusic v2.0.2](https://github.com/brblacky/lavamusic)                 | [v16.16.0](https://nodejs.org/en/blog/release/v16.16.0/) | [OpenJDK 11.0.16](https://openjdk.org/projects/jdk/11/) | Debian GNU/Linux 11 (aarch64)   |
+| drop2 | NA-East | [lavamusic v2.0.2](https://github.com/brblacky/lavamusic)                 | [v16.16.0](https://nodejs.org/en/blog/release/v16.16.0/) | [OpenJDK 11.0.16](https://openjdk.org/projects/jdk/11/) | Debian GNU/Linux 11 (aarch64)   |
+| drop3 | -       | -                                                                         | -                                                        | -                                                       | -                               |
+
+> ⚠ **Servers located in other regions may be limited by country georestrictions.** *You may not be able to play some videos or music.*
+> For YouTube, see [Video isn't available in my country/region](https://support.google.com/youtube/answer/92571?hl=en).
 
 ## Webhooks
 Status updates can be sent via Discord webhooks in supported servers.
