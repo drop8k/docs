@@ -6,6 +6,8 @@ nav_order: 1
 ---
 
 # Commands (JMusicBot)
+> ⚠ **This service has since been depreciated, and is no longer being used by drop.** See the [lavamusic](https://drop8k.github.io/docs/discord/commands/lavamusic.html) page for commands.
+
 List: `d!help` / `d?help` / `d&help`
 
 ## Music
