@@ -1,16 +1,17 @@
 ---
-title: Commands (JMusicBot)
+title: JMusicBot
 parent: Discord
 has_children: false
 nav_order: 1
 ---
 
-# Commands (JMusicBot)
+# JMusicBot
 > ⚠ **This service has since been depreciated, and is no longer being used by drop.** See the [lavamusic](https://drop8k.github.io/docs/discord/commands/lavamusic.html) page for commands.
 
+## Basic Commands
 List: `d!help` / `d?help` / `d&help`
 
-## Music
+### Music
 
 | Command                               | Details                                      |
 | :------------------------------------ | :------------------------------------------- |
@@ -22,7 +23,7 @@ List: `d!help` / `d?help` / `d&help`
 | `d!search <query>`                    | Searches for query on YouTube.               |
 | `d!lyrics [song_name]`                | Searches for lyrics of selected/active song. |
 
-## DJ
+### DJ
 
 | Command                  | Details                                                  
 | :----------------------- | :------------------------------------------------------- |
@@ -33,7 +34,7 @@ List: `d!help` / `d?help` / `d&help`
 | `d!loop [off/on/single]` | Check the current song.                                  |
 | `d!stop` / `d!dc`        | Clears the queue and disconnects the bot from active VC. |
 
-## Debug
+### Debug
 
 | Command   | Details                   |
 | :-------- | :------------------------ |
