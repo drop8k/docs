@@ -12,14 +12,16 @@ drop runs on various hardware for *upmost reliability and flexibility*.
 
 ## Libraries
 ### [lavamusic](https://github.com/brblacky/lavamusic)
-drop uses [lavamusic](https://github.com/brblacky/lavamusic) for its Discord bots. lavamusic runs on the [Node.js](https://nodejs.org/en/) runtime, and is supported by various dependencies:
+drop uses a modified version of [lavamusic](https://github.com/brblacky/lavamusic) for its Discord bots. lavamusic runs on the [Node.js](https://nodejs.org/en/) runtime, and is supported by various dependencies:
 - [Discord.js](https://github.com/discordjs)
 - [erela.js](https://github.com/MenuDocs/erela.js)
 - [Discord API](https://github.com/discord)
 
-[Lavalink](https://github.com/freyacodes/Lavalink) nodes are hosted locally and offsite for reliability.
+As a service, lavamusic provides quality playback while minimizing server downtime. Additionally, [Lavalink](https://github.com/freyacodes/Lavalink) nodes are hosted locally and offsite for reliability.
 
 ### [JMusicBot](https://github.com/jagrosh/MusicBot)
+> ⚠ **This service has since been depreciated.** Please use [lavamusic](https://github.com/brblacky/lavamusic).
+
 drop uses [JMusicBot](https://github.com/jagrosh/MusicBot) for its Discord bots. It is supported by the [JDA library](https://github.com/DV8FromTheWorld/JDA) and the [Discord API](https://github.com/discord). 
 
 ## Hardware
@@ -35,4 +37,4 @@ Servers run on Debian-based Linux operating systems and use the [Node.js](https:
 > For YouTube, see [Video isn't available in my country/region](https://support.google.com/youtube/answer/92571?hl=en).
 
 ## Webhooks
-Status updates can be sent via Discord webhooks in supported servers.
+Status updates can be sent via Discord webhooks in supported servers, providing members with information on active downtimes and updates.
