@@ -2,7 +2,7 @@
 title: JMusicBot
 parent: Discord
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # JMusicBot
