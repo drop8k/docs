@@ -19,7 +19,7 @@ drop utilizes the [ZeroTier](https://www.zerotier.com/) network to host servers 
 
 | Date    | Name         | Network     | Server IP      | MC Version | Modpack                                                                                    | 
 | :------ | :----------- | :---------  | :------------- | :--------- | :----------------------------------------------------------------------------------------- |
-| 11/9/22 | RLCraft      | `pancake8k` | `172.27.43.20` | 1.12.2     | [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)     | 
+| 11/9/22 | RLCraft      | `pancake8k` | `172.27.43.21` | 1.12.2     | [RLCraft v2.9.1c](https://www.curseforge.com/minecraft/modpacks/rlcraft/files/3655670)     | 
 
 - **Installing a modpack?** See how to download modpacks in [Windows](https://drop8k.github.io/docs/minecraft/installation/windows.html#downloading-modpacks) or [Linux](https://drop8k.github.io/docs/minecraft/installation/linux.html#downloading-modpacks).
 
