@@ -18,8 +18,6 @@ nav_order: 4
 
 > ⚠ **Note that cracked launchers can only play on servers that are in offline mode.** *Servers with online mode enabled can only be played on official Minecraft accounts.*
 
-You can find a list of available server IPs from the [Minecraft](https://drop8k.github.io/docs/minecraft/main.html) page or in supported Discord servers.
-
 ## Troubleshooting
 Confirm you have verified all of the following:
 
