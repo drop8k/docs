@@ -28,25 +28,24 @@ ZeroTier is supported on both Windows and Linux operating systems.
 ## Step 2: Installing Modpacks
 Some of drop's servers will require certain modpacks and Minecraft versions to join.
 
-Modpacks used can be found in the [Servers](https://drop8k.github.io/docs/server/main.html#servers) section on the main page or in supported Discord servers.
+Modpacks used can be found in the [Servers](https://drop8k.github.io/docs/minecraft/main.html#servers) section on the main page or in supported Discord servers.
 
+> **For Windows**, see the [CurseForge App](https://drop8k.github.io/docs/minecraft/installation/windows.html) setup guide on installing modpacks and configuring your launcher.
 
-> **For Windows**, see the [CurseForge App](https://drop8k.github.io/docs/server/installation1.html) setup guide on installing modpacks and configuring your launcher.
-
-> **For Linux**, see the [CurseForge CLI](https://drop8k.github.io/docs/server/installation2.html) setup guide on installing modpacks and configuring your launcher.
+> **For Linux**, see the [CurseForge CLI](https://drop8k.github.io/docs/minecraft/installation/linux.html) setup guide on installing modpacks and configuring your launcher.
 
 ## Step 3: Extra Mods
 Some of drop's servers will require additional mods to be installed, usually on top of ones already provided by a modpack. *Most additional mods are required in order to join a server, otherwise your client will refuse to connect.*
 
 Additionally, some mods operate client-only, *meaning they are not necessary to join the server*, but it may improve user experience.
 
-> See [Extra Mods](https://drop8k.github.io/docs/server/extras.html) for the list of additional mods needed by a server. *You can also check in supported Discord servers.*
+> See [Extra Mods](https://drop8k.github.io/docs/minecraft/extras/main.html) for the list of additional mods needed by a server. *You can also check in supported Discord servers.*
 
-> See [Installing Extra Mods](https://drop8k.github.io/docs/server/extras-install.html) on how to install them for your client.
+> See [Installing Extra Mods](https://drop8k.github.io/docs/minecraft/extras/installation.html) on how to install them for your client.
 
 ## Step 4: Connecting to a Server
-Server IPs are provided on the [Minecraft](https://drop8k.github.io/docs/server/main.html) home page or in supported Discord servers.
+Server IPs are provided in supported Discord servers.
 
 **ZeroTier is required to connect to these addresses.** drop uses local IPs provided by ZeroTier, which are accessible to connected clients.
 
-> See [Connecting to a Server](https://drop8k.github.io/docs/server/connect.html) on how to join.
+> See [Connecting to a Server](https://drop8k.github.io/docs/minecraft/connect.html) on how to join.
