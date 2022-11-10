@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 # Extra Mods
-> See [Installing Extra Mods](https://drop8k.github.io/docs/minecraft/extras-install.html) on how to use these mods.
+> See [Installing Extra Mods](https://drop8k.github.io/docs/minecraft/extras/installation.html) on how to use these mods.
 
 Some additional mods are required for clients to join Minecraft servers on top of mods used by CurseForge.
 
