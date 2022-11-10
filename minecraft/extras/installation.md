@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 # Installing Extra Mods
-> ⚠ **This page is incomplete.** Some information may be incorrect, out-of-date, or missing.
 
 ## Windows
 - Download the mod(s) and save them to a directory (e.g. `Downloads`).
