@@ -13,10 +13,10 @@ In order to join Minecraft servers hosted by drop, you will need to prepare and 
 If you want to get started, scroll through these guides:
 1. [Configuring ZeroTier](https://drop8k.github.io/docs/misc/zerotier.html)
 2. Installing Modpacks
-    - [Installing Modpacks Using CurseForge App (Windows)](https://drop8k.github.io/docs/server/installation1.html)
-    - [Installing Modpacks Using CurseForge CLI (Linux)](https://drop8k.github.io/docs/server/installation2.html)
-3. [Extra Mods](https://drop8k.github.io/docs/server/extras.html)
-4. [Connecting to a Server](https://drop8k.github.io/docs/server/connect.html)
+    - [Installing Modpacks Using CurseForge App (Windows)](https://drop8k.github.io/docs/minecraft/installation/windows.html)
+    - [Installing Modpacks Using CurseForge CLI (Linux)](https://drop8k.github.io/docs/minecraft/installation/linux.html)
+3. [Extra Mods](https://drop8k.github.io/docs/minecraft/extras/main.html)
+4. [Connecting to a Server](https://drop8k.github.io/docs/minecraft/connect.html)
 
 ## Step 1: Configuring ZeroTier
 drop utilizes the [ZeroTier](https://www.zerotier.com/) virtual Ethernet network for connections to its servers. *This ensures security and compatibility with various clients.*
